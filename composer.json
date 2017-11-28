@@ -17,9 +17,9 @@
   ],
   "require": {
     "sphring/sphring": "0.13.0",
-    "filp/whoops": "~2.1",
-    "symfony/yaml": "~2.5",
-    "monolog/monolog": "~1.13"
+    "filp/whoops": "^2.1",
+    "symfony/yaml": "~2.8",
+    "monolog/monolog": "^1.23"
   },
   "require-dev": {
     "predis/predis": "~1.0"
